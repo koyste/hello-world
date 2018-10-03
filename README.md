@@ -1,4 +1,9 @@
-# hello-world
-learning github
 
-Yep. I´m learning little bit about this GitHub..
+public class HelloWorld {
+
+	public static void main(String[] args) {
+
+System.out.println("Hello world!");
+	}
+
+}
